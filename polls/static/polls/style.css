@@ -1,11 +1,15 @@
 li a {
-    color: green;
+    color: white;
     margin-left: 10px;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 200%;
+    padding: 30px;
 }
 
 body {
-    background: white url("images/background.gif") no-repeat;
-    background-repeat: no-repeat;
-    background-position: center top;
-    margin-right: 200px;
-}
+    background: gray url("images/background.gif") no-repeat;
+    background-position: left 35px top 10px;
+    margin-right: 20px;
+    margin-top: 200px;
+    line-height: 3em;
